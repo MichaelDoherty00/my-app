@@ -1,1 +1,1 @@
-Creating a react-app following a tutotial: https://makeschool.org/mediabook/oa/tutorials/react-fundamentals-vm0/setting-up-react/
+Creating a react-app following a tutorial: https://makeschool.org/mediabook/oa/tutorials/react-fundamentals-vm0/setting-up-react/
