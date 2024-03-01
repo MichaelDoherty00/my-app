@@ -1,5 +1,5 @@
 .Title {
-    background-color: rgb(192, 45, 26);
+    background-color: rgb(68, 68, 68);
 }
 
 .Title-Title {
@@ -13,7 +13,7 @@
 }
 
 .Title-Subtitle {
-    color: rgba(105, 174, 206, 0.75);
+    color: rgba(163, 207, 131, 0.75);
     padding-bottom: 1em;
     margin-bottom: 2em;
   }

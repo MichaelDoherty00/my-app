@@ -5,10 +5,10 @@ function Title() {
   return (
     <div className="Title">
         <div className="Title-Title">
-            <h1>Website</h1>
+            <h1>Glasgow Parks</h1>
         </div>
         <div className="Title-Subtitle">
-            San Franciscos Privately Owned Public Spaces
+            Glasgow Parks and Public Spaces
         </div>
     </div>
     
